@@ -4,4 +4,4 @@
   i finally started it, feelsgood.gif
 
 ### todo
-  [ ] webpack config
+  - [ ] webpack config
